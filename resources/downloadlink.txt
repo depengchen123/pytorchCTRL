@@ -1,0 +1,4 @@
+This file is really big, you have to download from the follwing link:
+
+https://cdn.huggingface.co/ctrl-pytorch_model.bin 
+
